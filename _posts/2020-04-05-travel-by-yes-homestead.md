@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Homestead - Travel By Yes"
+---
+
 # Homestead - Travel By Yes
 
 Today I located our old assets and tools from the travelbyyes.com website and created a homestead for them on github. Now all those old things will live on forever in the cloud.
