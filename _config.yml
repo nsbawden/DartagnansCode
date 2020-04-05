@@ -1,5 +1,8 @@
 theme: jekyll-theme-cayman
 
+title: "d'Artagnans Code"
+description: Code and other things by d'Artagnan Evergreen Barbosa
+
 # Where things are
 
 collections:
