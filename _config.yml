@@ -1,15 +1,7 @@
 theme: jekyll-theme-cayman
 
 # Where things are
-source              : .
-destination         : ./_site
-collections_dir     : .
-plugins_dir         : _plugins
-layouts_dir         : _layouts
-data_dir            : _data
-includes_dir        : _includes
-sass:
-  sass_dir: _sass
+
 collections:
   posts:
     output          : true
@@ -39,13 +31,6 @@ highlighter         : rouge
 lsi                 : false
 excerpt_separator   : "\n\n"
 incremental         : false
-
-# Serving
-detach              : false
-port                : 4000
-host                : nsbawden.github.io
-baseurl             : "" # does not include hostname
-show_dir_listing    : false
 
 # Outputting
 permalink           : date
