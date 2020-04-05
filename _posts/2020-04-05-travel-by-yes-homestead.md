@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Homestead - Travel By Yes"
 date: 2020-04-05 13:34:27 -0400
 ---
