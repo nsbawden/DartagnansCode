@@ -1,5 +1,6 @@
 ## Welcome to d'Artagnans Code
 
+### Blog Posts
 <ul>
   {% for post in site.posts %}
     <li>
