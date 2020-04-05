@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+
+collections:
+  posts:
+    output          : true
