@@ -6,3 +6,4 @@ collections:
   posts:
     output          : true
 
+include : [_posts]
